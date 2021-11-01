@@ -24,7 +24,7 @@ FROM (
     END
       AS retained
     FROM (
-      SELECT -- initial table to grab and join the tables we need
+      SELECT -- initial table to grab and join the tables we needgit 
         MIN(joined) AS joined,
         p.player_id,
         location,
