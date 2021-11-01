@@ -1,16 +1,16 @@
 ```SQL
-SELECT
+SELECT -- Grab the initial data set to build our retained v unretained table
   date_joined,
   total_players,
   total_retained,
   ROUND((total_retained / total_players*100), 2) AS percentage
 FROM (
-  SELECT
+  SELECT --count total players retained and unretained
     date_joined,
     COUNT(player ) AS total_players,
     SUM (retained) AS total_retained
   FROM (
-    SELECT
+    SELECT -- Find out if people played the game beyond the first 30 days
       glass.joined AS date_joined,
       glass.player_id AS player,
       CASE
@@ -20,7 +20,7 @@ FROM (
     END
       AS retained
     FROM (
-      SELECT
+      SELECT -- grab the tables and data we need for the rest of our query and table
         MIN(joined) AS joined,
         p.player_id,
         MAX(day) AS last_game
