@@ -18,5 +18,5 @@ From here we wondered if player spending impacted retention, and found that thos
 
 ### Links
 
-
+Google Presentation Link(also available as a PDF in this repo): https://docs.google.com/presentation/d/1eOCHpzo7nJLOCbuE4pMNXL4R0naUozoxsNJg7tH5E4g/edit?usp=sharing
 Google sheets Link: https://docs.google.com/spreadsheets/d/1HNTCJTQU66bNhSnMctU5x1X5nzFwPG8vqw8xgVF9e9s/edit?usp=sharing
