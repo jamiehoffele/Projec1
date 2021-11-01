@@ -1,3 +1,5 @@
+```SQL
+--SQL Query 1
 SELECT -- final query to build percentage table
   location,
   total_players,

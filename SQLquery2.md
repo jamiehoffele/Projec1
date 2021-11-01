@@ -1,3 +1,5 @@
+```SQL
+--SQL Query 2
 /*Grab the top 1000 players with wins and see how much they spend on items*/
 SELECT DISTINCT
 count(*) as total_wins, m.player_id as player, SUM(item.price) as cost
