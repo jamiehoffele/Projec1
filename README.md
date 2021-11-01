@@ -11,7 +11,7 @@ In sheets we then used this data to create charts and visualizations to track th
 
 ![totalplayersbyregion](totalplayersbyregion.png)
 
-From here we wondered if player spending impacted retention, and found that those players in the top 1000 of wins would spend more within the game itself and this lowered over ta lower number of wins which means the game might be considered "pay-to-win".
+From here we wondered if player spending impacted retention, and found that those players in the top 1000 of wins would spend more within the game itself and this lowered over the lower number of wins which means the game might be considered "pay-to-win".
 
 ![Top1000playersWins](Top1000playersWins.png)
 
