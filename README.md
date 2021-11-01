@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Here is some more information about the project.
+Project Members: Jamie Hoffele and Sasha Girling
 
 For this project we had a set of fictional data from a "Game Company" that was seeking out its rolling retention numbers by day. The selection would be binary, either players were retained if they played a match within 30 days of sign up, or they were not. We used our first query to connect the tables and create a data set we could use and import into Google Sheets, where we added columns and formula to calculate the percentage retained, which felt high but confirmed throughout the dataset.
 
