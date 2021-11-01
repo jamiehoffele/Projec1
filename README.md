@@ -6,7 +6,7 @@ Project Members: Jamie Hoffele and Sasha Girling
 
 For this project we had a set of fictional data from a "Game Company" that was seeking out its rolling retention numbers by day. The selection would be binary, either players were retained if they played a match within 30 days of sign up, or they were not. We used our first query to connect the tables and create a data set we could use and import into Google Sheets, where we added columns and formula to calculate the percentage retained, which felt high but confirmed throughout the dataset.
 
-In sheets we then used this data to create charts and visualizations to track the trend lines in retention which seemed steady, and confirmed this by comparing retention across regions where they were all relatively the same percentages within a 1% margin of error.
+In sheets we then used this data to create charts and visualizations to track the trend lines in retention which seemed steady, and confirmed this by comparing retention across regions where they were all relatively the same percentages within a 1.5% margin of error.
 ![TotalPlayersRetainedOverTime](TotalPlayersVTotalRetentionovertime.png)
 
 ![totalplayersbyregion](totalplayersbyregion.png)
